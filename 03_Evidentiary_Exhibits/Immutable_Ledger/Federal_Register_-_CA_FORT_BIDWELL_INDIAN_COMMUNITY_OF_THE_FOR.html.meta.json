@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+FORT+BIDWELL+INDIAN+COMMUNITY+OF+THE+FOR",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+FORT+BIDWELL+INDIAN+COMMUNITY+OF+THE+FOR",
+  "title": "Federal Register - CA FORT BIDWELL INDIAN COMMUNITY OF THE FOR",
+  "fetched_at": "2026-11-23T17:55:20.673343Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 198343,
+  "sha256": "4bfcdb5e0999d3be027a2711b78c8320f71c48369df2d08a138836592bc24d09",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
